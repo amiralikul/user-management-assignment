@@ -9,6 +9,11 @@ Duration
 The assignment is designed to take 2 hours.
 Assignment Details
 You are tasked with building a simple application that interacts with a backend API. The application should allow users to search for specific users, display the matching results, and provide a way to view detailed information about individual users.
+
+## Application UI
+
+![UI](UI.png)
+
 Requirements
 Main Page
 
@@ -150,4 +155,4 @@ Response /users
         }
     ],
     "totalPages": 5
-}```
+}

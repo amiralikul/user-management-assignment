@@ -1,0 +1,5 @@
+{
+  "buildCommand": "CI=false pnpm run build",
+  "framework": "vite",
+  "installCommand": "pnpm install"
+} 
